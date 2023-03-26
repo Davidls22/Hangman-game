@@ -17,3 +17,14 @@ However, there is a limit to the number of incorrect guesses a player can make (
 Once the game is over, the player has the option to play again with a new word or phrase.
 
 That's it! Have fun playing the Hangman game!
+
+
+#How to install and run:
+
+Steps:
+
+Clone the repository: git clone https://github.com/Davidls22/Hangman-game.git.
+Navigate to the project directory: cd Hangman-game.
+Install the project dependencies: npm install.
+Run the app in development mode: npm start.
+Open http://localhost:3000 to view the app in your browser.
